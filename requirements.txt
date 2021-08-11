@@ -1,0 +1,6 @@
+seaborn
+matplotlib
+scipy
+numpy
+torch
+pymc3
